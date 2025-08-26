@@ -54,7 +54,13 @@ The program displays:
 - Hand landmarks connected with lines.
 - Finger count and names displayed on the top-left corner.
 
+<img width="1106" height="636" alt="Image" src="https://github.com/user-attachments/assets/a02c86ca-c28c-40b8-829e-ad4b9bb1f876" />
 
+<img width="1114" height="616" alt="Image" src="https://github.com/user-attachments/assets/52b07e78-5f08-483a-adf8-bab59d242021" />
+
+<img width="1110" height="617" alt="Image" src="https://github.com/user-attachments/assets/ea8c500c-5d67-4718-914d-90ab4c75321d" />
+
+<img width="1114" height="627" alt="Image" src="https://github.com/user-attachments/assets/6e1fc79f-ad48-4cc1-a0a1-9168bc1955fc" />
 
 ## Controls
 - Press `q` to exit the application.
